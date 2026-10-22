@@ -1,5 +1,5 @@
 [
-vless://0@0.0.0.0:443?security=none&encryption=none&headerType=none&type=tcp#powered%20by%E2%9A%A1%EF%B8%8Fen.ali.es,
+{vless://0@0.0.0.0:443?security=none&encryption=none&headerType=none&type=tcp#powered%20by%E2%9A%A1%EF%B8%8Fen.ali.es},
 {
   "log": {
     "access": "",
